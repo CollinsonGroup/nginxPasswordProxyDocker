@@ -1,0 +1,7 @@
+# items to not bring over when building the Docker image
+
+.git/
+.vagrant/
+Vagrantfile
+readme.md
+**/*.md
